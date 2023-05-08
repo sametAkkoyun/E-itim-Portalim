@@ -1,4 +1,4 @@
-# Eğitim-Portalim
+# Egitim-Portalim
 
 2023 İNTERNET PROGRAMCILIĞI 2 VİZE PROJEM
 
